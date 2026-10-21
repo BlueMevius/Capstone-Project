@@ -122,6 +122,19 @@ readr, stringr, ggplot2, viridis, cowplot, readxl
 
 ---
 
+---
+
+## Follow-up research — Dynamic Modeling & Simulation
+
+An exploratory extension of this Virginia county study is available in **[Modeling-and-Simulation-Extension](Modeling-and-Simulation-Extension/README.md)**. It translates the observed weak Gini–fast-food density association into a **stochastic discrete-time scenario model**, studies equilibrium sensitivity to market adjustment/constraints, and tests a hypothetical mid-run policy shock.
+
+- [Expanded research manuscript](Modeling-and-Simulation-Extension/docs/05_revised_paper.md)
+- [Model assumptions and derivation](Modeling-and-Simulation-Extension/docs/02_model_and_assumptions.md)
+- [Simulation experiments and limitations](Modeling-and-Simulation-Extension/docs/03_experiments_and_results.md)
+- [한국어 후속 연구 설명](Modeling-and-Simulation-Extension/docs/06_korean_summary.md)
+
+**Scope note:** The original capstone reports cross-sectional associations. The extension's numerical outcomes are **conditional simulations**, not independent evidence of causation or predictions of real zoning-policy impacts.
+
 ## Citation
 
 If you reference this work, please cite as:
